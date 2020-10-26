@@ -120,7 +120,7 @@ export const Formats: (FormatsData | {section: string, column?: number})[] = [
 		mod: 'gen8',
 		maxLevel: 5,
 		ruleset: ['Little Cup', 'Standard', 'Dynamax Clause'],
-		banlist: ['Uber', 'OU', 'UU', 'RU', 'NU', 'PU' 'Moody', 'Baton Pass'],
+		banlist: ['Uber', 'OU', 'UU', 'RU', 'NU', 'PU', 'Moody', 'Baton Pass'],
 		//banlist: [
 		//	'Corsola-Galar', 'Cutiefly', 'Drifloon', 'Gastly', 'Gothita', 'Rufflet', 'Scyther', 'Sneasel', 'Swirlix', 'Tangela', 'Vulpix-Alola',
 		//	'Moody', 'Baton Pass',
