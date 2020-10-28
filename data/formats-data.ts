@@ -1983,7 +1983,7 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
         	tier: "OU",
         	doublesTier: "DOU", 
  	},
-	marowakscizor: {
+	scizormarowak: {
 		tier: "OU",
 	},
 	togekisspersian: {

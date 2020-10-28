@@ -19257,7 +19257,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Purple",
 		eggGroups: ["Monster", "Amorphous"],
 	},
-	marowakscizor: {
+	scizormarowak: {
 		num: 10325,
 		name: "marowakscizor",
 		types: ["Ground", "Bug"],
