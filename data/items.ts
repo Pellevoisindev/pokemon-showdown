@@ -5864,6 +5864,7 @@ export const BattleItems: {[itemid: string]: ItemData} = {
 		},
 		onModifyAtkPriority: 1,
 		onModifyAtk(atk, pokemon) {
+			console.log("baseSpecies: "+pokemon.baseSpecies.baseSpecies);
 			if (pokemon.baseSpecies.baseSpecies.endsWith('cubone') || pokemon.baseSpecies.baseSpecies.endsWith('marowak')) {
 				return this.chainModify(2);
 			}
