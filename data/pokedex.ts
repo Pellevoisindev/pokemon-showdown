@@ -19259,7 +19259,7 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	scizormarowak: {
 		num: 10325,
-		name: "marowakscizor",
+		name: "scizormarowak",
 		types: ["Ground", "Bug"],
 		baseStats: {hp: 63, atk: 113, def: 103, spa: 51, spd: 80, spe: 58},
 		abilities: {0: "Rock Head", 1: "Technician", H: "Battle Armor"},
