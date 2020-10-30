@@ -24291,4 +24291,16 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["DusclopsVigoroth"],
 		eggGroups: ["Amorphous", "Field"],
 	},
+	jirachientei: {
+        num: 10814,
+        name: "jirachientei",
+        types: ["Steel", "Fire"],
+        baseStats: {hp: 105, atk: 110, def: 90, spa: 96, spd: 91, spe: 100},
+        abilities: {0: "Serene Grace", 1: "Pressure", H: "Inner Focus"},
+        heightm: 1.2,
+        weightkg: 99.55,
+        color: "Yellow",
+        eggGroups: ["Undiscovered", "Undiscovered"],
+    },
+
 };

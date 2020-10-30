@@ -3413,4 +3413,8 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 	rioluduskull: {
 		tier: "LC",
 	},
+	jirachientei: {
+        tier: "OU",
+    },
+
 };
